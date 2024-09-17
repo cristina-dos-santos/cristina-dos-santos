@@ -23,7 +23,5 @@ Sou uma estudante de Engenharia Informática na Universidade Católica de Angola
 ### Ferramentas de Design:
 - GIMP
 - Canva
-
-
-
-![Estatísticas do GitHub de Cristina dos Santos](https://github-readme-stats.vercel.app/api?username=cristina-dos-santos&show_icons=true&theme=tokyonight)
+  
+[![Estatísticas do GitHub de Cristina dos Santos](https://github-readme-stats.vercel.app/api?username=cristina-dos-santos&show_icons=true&theme=tokyonight)](https://github.com/cristina-dos-santos)
