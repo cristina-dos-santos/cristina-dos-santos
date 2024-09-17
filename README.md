@@ -11,17 +11,17 @@ Sou uma estudante de Engenharia Informática na Universidade Católica de Angola
 ## 🛠️ Habilidades: 
 
 ### Linguagens de Programação:
-- Java
-- C
-- JavaScript
+- 👩🏽‍💻 Java
+- 👩🏽‍💻 C
+- 👩🏽‍💻 JavaScript
 
 ### Base de Dados e Administração:
-- SQL
-- pgAdmin
-- MySQL
+- 👩🏽‍💻 SQL
+- 👩🏽‍💻 pgAdmin
+- 👩🏽‍💻 MySQL
 
 ### Ferramentas de Design:
-- GIMP
-- Canva
+- 👩🏽‍💻 GIMP
+- 👩🏽‍💻 Canva
   
 [![Estatísticas do GitHub de Cristina dos Santos](https://github-readme-stats.vercel.app/api?username=cristina-dos-santos&show_icons=true&theme=tokyonight)](https://github.com/cristina-dos-santos)
