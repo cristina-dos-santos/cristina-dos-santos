@@ -25,3 +25,11 @@ Sou uma estudante de Engenharia Informática na Universidade Católica de Angola
 - 👩🏽‍💻 Canva
   
 [![Estatísticas do GitHub de Cristina dos Santos](https://github-readme-stats.vercel.app/api?username=cristina-dos-santos&show_icons=true&theme=tokyonight)](https://github.com/cristina-dos-santos)
+
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cristina-dos-santos/cristina-dos-santos/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cristina-dos-santos/cristina-dos-santos/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cristina-dos-santos/cristina-dos-santos/output/github-contribution-grid-snake.svg">
+</picture>
