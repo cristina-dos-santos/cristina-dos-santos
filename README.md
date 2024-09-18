@@ -43,17 +43,10 @@ Sou uma estudante de Engenharia Informática na Universidade Católica de Angola
   
 <br>
 
-<div style="text-align: center;" align="center">
-  <h3> GitHub Stats: </h3>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cristina-dos-santos&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=tokyonight" alt="GitHub stats">
-<!-- 
-  <a href="https://github.com/cristina-dos-santos/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cristina-dos-santos&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a> -->
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cristina-dos-santos&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Cristina dos Santos github stats" />
+  <!--<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristina-dos-santos&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0B3A78" /> -->
 </div>
-  
-<!-- [![Estatísticas do GitHub de Cristina dos Santos](https://github-readme-stats.vercel.app/api?username=cristina-dos-santos&show_icons=true&theme=tokyonight)](https://github.com/cristina-dos-santos) -->
 
 #
 
