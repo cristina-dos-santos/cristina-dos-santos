@@ -39,6 +39,10 @@ Sou uma estudante de Engenharia Informática na Universidade Católica de Angola
     <img src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" height="25" alt="canva logo"  />
     <img width="8" />
     <img src="https://img.icons8.com/?size=100&id=b4Y5rs3iBGqE&format=png&color=000000" height="25" alt="gimp logo"  />
+    <img width="8" />
+    <img src="https://img.icons8.com/?size=100&id=VTOjeBl8MaUy&format=png&color=000000" height="25" alt="invision logo"  />
+    <img width="8" />
+    <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" height="25" alt="invision logo"  />
   </div>
   
 <br>
