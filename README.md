@@ -2,7 +2,7 @@
 
 Sou uma estudante de Engenharia Informática na Universidade Católica de Angola, muito interessada em tecnologia e inovação. 
 
-## 💖 Áreas de meu interesse: 
+## 👩🏽‍💻 Áreas de meu interesse: 
 
 - 🚀 **Base de Dados**;
 - 🚀 **Front-End**;
