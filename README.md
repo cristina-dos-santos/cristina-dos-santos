@@ -11,7 +11,7 @@ Sou uma estudante de Engenharia Informática na Universidade Católica de Angola
 
 ## 🛠️ Habilidades: 
 
-### Linguagens:
+### Linguagens e Frameworks:
   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
   <img width="8" />
