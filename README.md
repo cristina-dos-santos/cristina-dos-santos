@@ -6,7 +6,6 @@ Sou uma estudante de Engenharia Informática na Universidade Católica de Angola
 
 - 🚀 **Back-End**;
 - 🚀 **Base de Dados**;
-- 🚀 **Front-End**;
 - 🚀 **E a fascinante intersecção entre a tecnologia e a expressão criativa**.
 
 ## 🛠️ Habilidades: 
