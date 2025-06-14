@@ -1,6 +1,6 @@
 # Olá, sou Cristina dos Santos! ✨
 
-Sou uma estudante de Engenharia Informática na Universidade Católica de Angola, muito interessada em tecnologia e inovação. 
+Sou Engenheira Informática, licenciada pela Universidade Católica de Angola, muito interessada em tecnologia e inovação. 
 
 ## 👩🏽‍💻 Áreas de meu interesse: 
 
